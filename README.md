@@ -8,13 +8,13 @@
     <img alt="MATRIX-MD" width="700" height="300" src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Yassin994/MATRIX"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/yassin994/MATRIX"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Yassin9941?label=Followers&style=social"></a>
-<a href="https://github.com/YAssin994/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Yassin994/MATRTIX?&style=social"></a>
-<a href="https://github.com/Yassin994/MATRIX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Yassin994/MATRIX?style=social"></a>
-<a href="https://github.com/Yassin994/MATRIX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Yassin994/MATRIX?label=Watching&style=social"></a>
+<a href="https://github.com/yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/yassin9941?label=Followers&style=social"></a>
+<a href="https://github.com/yassin994/MATRIX/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/MATRTIX?&style=social"></a>
+<a href="https://github.com/yassin994/MATRIX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yassin994/MATRIX?style=social"></a>
+<a href="https://github.com/yassin994/MATRIX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yassin994/MATRIX?label=Watching&style=social"></a>
   
 ***
 
