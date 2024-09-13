@@ -91,7 +91,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
-### THANKS TO:
+### DEVELOPERS:
 - [***YESSER TECH***](https://wa.me/255621995482) For several Cmds from his bot & Ideas.
 - [***BONIPHACE Tech***](https://github.com/boniphace30) For Genaral Help and Brotherhood. 
 - [***youtube***](https://www.youtube.com/@Yesserboy92) For Code encryption. 
