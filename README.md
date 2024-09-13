@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/Yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Yassin994?label=Followers&style=social"></a>
 <a href="https://github.com/Yassin994/MATRIX/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Yassin994/MATRTIX?&style=social"></a>
-<a href="https://github.com/Yassin994/MATRIX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Yassin994/MATRIX?style=social"></a>
+<a href="https://github.com/Yassin994/MATRIX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Yassin994/?style=social"></a>
 <a href="https://github.com/Yassin994/MATRIX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Yassin994/MATRIX?label=Watching&style=social"></a>
   
 ***
