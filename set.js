@@ -7,16 +7,16 @@ const databasePath = path.join(__dirname, './database.db');
 const DATABASE_URL = process.env.DATABASE_URL === undefined
     ? databasePath
     : process.env.DATABASE_URL;
-module.exports = { session: process.env.SESSION_ID || 'FLASH-MD-WA-BOT;;;=>',
+module.exports = { session: process.env.SESSION_ID || 'MATRIX-MD-WA-BOT;;;=>',
     PREFIXE: process.env.PREFIX || "+",
-    OWNER_NAME: process.env.OWNER_NAME || "France King",
-    OWNER_NUMBER : process.env.OWNER_NUMBER || "254105915061", 
+    OWNER_NAME: process.env.OWNER_NAME || "YESSER TECH",
+    OWNER_NUMBER : process.env.OWNER_NUMBER || "255621995482", 
     A_REACT : process.env.AUTO_REACTION || 'on',     
     AUTO_READ_STATUS: process.env.AUTO_VIEW_STATUS || "on",
 AUTOREAD_MESSAGES: process.env.AUTO_READ_MESSAGES || "off",
 CHATBOT: process.env.CHAT_BOT || "on",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_SAVE_STATUS || 'off',
-    BOT : process.env.BOT_NAME || 'FLASH-MD',
+    BOT : process.env.BOT_NAME || 'MATRIX-MD',
     //OPENAI_API_KEY : process.env.OPENAI_API_KEY || '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',
     URL : process.env.BOT_MENU_LINKS || '',
     MODE: process.env.BOT_MODE || "private",
