@@ -31,7 +31,7 @@ function _0x1186() {
         'SzeCa',
         '4640272bBcPvb',
         'join',
-        '../france/',
+        '../yesser/',
         'cgHRE',
         'google-tts',
         'yvkrs',
