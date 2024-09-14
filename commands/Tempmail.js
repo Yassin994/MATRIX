@@ -32,7 +32,7 @@ function _0x1953() {
     const _0xeec591 = [
         'tempmail',
         'ttps://ete',
-        'France\x20Kin',
+        'yesser\x20boy',
         '\x0a\x0a\x203️⃣\x20https',
         '123CRsWlV',
         '\x20emails,Po',
@@ -46,7 +46,7 @@ function _0x1953() {
         'of\x20the\x20lin',
         '1279064VfNjVw',
         'g*\x20\x0a\x0a\x20',
-        '../france/',
+        '../yesser/',
         '10563098AkYmgp',
         '://ghostma',
         'ks\x20below\x20t',
