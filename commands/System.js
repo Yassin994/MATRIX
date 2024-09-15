@@ -71,7 +71,7 @@ function _0x4907() {
         'QNdww',
         'nd\x20is\x20for\x20',
         'dOfXE',
-        'king',
+        'tech',
         '👨🏿‍💼',
         '214976vxCfjo',
         't\x20all',
@@ -98,7 +98,7 @@ function _0x4907() {
         '1567736vEEPTp',
         'reboot',
         '10GAZfwt',
-        '../france/'
+        '../yesser/'
     ];
     _0x4907 = function () {
         return _0x1e6aa7;
