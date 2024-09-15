@@ -23,14 +23,14 @@ function _0x19b8() {
         'https://te',
         '27iscGQn',
         'at.whatsap',
-        'king',
+        'Tech',
         'aisie\x20!!!s',
         'erty',
         'https://wh',
         'channel',
         '941988zwyJsC',
         'FQewz',
-        '\x20*FLASH-MD',
+        '\x20*MATRIX-MD',
         '59b5e3138e',
         'NjTgf',
         'defineProp',
@@ -69,7 +69,7 @@ function _0x19b8() {
         'e8610.jpg',
         'p.com/IH4x',
         'legra.ph/f',
-        '../france/',
+        '../yesser/',
         '\x20Group\x0a\x0a',
         'mon\x20test'
     ];
@@ -111,7 +111,7 @@ king({
     });
 }), console[_0x23301c(0x98)](_0x23301c(0x80)), king({
     'nomCom': _0x23301c(0x8c),
-    'reaction': '🤍',
+    'reaction': '🤠',
     'nomFichier': __filename
 }, async (_0x47e6f3, _0xf4a40e, _0xc0d879) => {
     const _0x231f77 = _0x23301c, _0x4e5db8 = {
