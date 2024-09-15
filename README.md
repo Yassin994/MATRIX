@@ -23,7 +23,7 @@
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Yassin994/MATRIX/fork) It***
 
 ***2.`GET SESSION_ID USING`***
-[`QR SCANNER`](https://the-flash-scanner.onrender.com) OR [`PAIRING CODE`](https://king-france.vercel.app)
+[`QR SCANNER`](https://yesser.onrender.com) OR [`PAIRING CODE`](https://yesser.onrender.com)
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
